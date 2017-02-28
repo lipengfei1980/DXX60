@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MText.qml</file>
+        <file>AllHave.qml</file>
+        <file>NotAllHave.qml</file>
+        <file>Recv.qml</file>
+    </qresource>
+</RCC>
